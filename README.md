@@ -2,12 +2,13 @@
 <h3 align="center">A passionate student and developer from Poland</h3>
 
 # 💫 About Me:
-👨‍🎓 ICT student at AGH UST 🟩⬛️🟥 <br>🏍️ Mobile App Team Leader at E-Moto AGH<br>👨‍💻 Sometimes kind of a nerd, I love tech and  programming<br>📱Flutter Enthusiast<br>🏂️ In my free time, I snowboard and have fun
+👨‍🎓 ICT student at AGH UST 🟩⬛️🟥 <br>🏍️ Mobile App Team Leader at E-Moto AGH<br>👨‍💻 Sometimes kind of a nerd, I love tech and  programming<br>📱Flutter Enthusiast<br>🏂️ In my free time, I snowboard and have fun.
 
 
 # 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/notifications/?filter=all" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/notifications/?filter=all" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/przemyslawsosna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/przemyslawsosna/" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/sosenwiosen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sosenwiosen/" height="30" width="40" /></a>
 </p>
 
 # 👨‍💻 🛠️ Languages and tools:
