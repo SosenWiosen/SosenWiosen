@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student and developer from Poland</h3>
 
 # 💫 About Me:
-👨‍🎓 ICT student at AGH UST 🟩⬛️🟥 <br>👨‍💻 Sometimes kind of a nerd, I love tech and  programming<br>🏂️ In my free time, I snowboard,  and have fun.
+👨‍🎓 ICT student at AGH UST 🟩⬛️🟥 <br>👨‍💻 Sometimes kind of a nerd, I love tech and programming<br>🏂️ In my free time, I snowboard, surf, skate (anyboard:skateboard::surfer:) and have fun.
 
 
 <!-- # 🌐 Socials:
