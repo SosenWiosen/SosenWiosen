@@ -55,8 +55,8 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jarek7410&theme=tokyonight&hide_border=false"/>
 </p>
----
 
+---
 
 <p align="center">
   <img src="https://github.com/jarek7410/jarek7410/blob/output/github-contribution-grid-snake.svg"/>
