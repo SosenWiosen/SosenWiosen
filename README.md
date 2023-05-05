@@ -37,5 +37,7 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
----
+
+
 [![](https://visitcount.itsvg.in/api?id=jarek7410&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+---
