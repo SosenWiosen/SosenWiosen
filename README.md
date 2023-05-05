@@ -32,4 +32,8 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=jarek7410&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+---
+
+![Snake animation](https://github.com/jarek7410/jarek7410/blob/output/github-contribution-grid-snake.svg)
+
 
