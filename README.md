@@ -31,9 +31,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jarek7410&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
-[![](https://visitcount.itsvg.in/api?id=jarek7410&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
----
+
 
 ![Snake animation](https://github.com/jarek7410/jarek7410/blob/output/github-contribution-grid-snake.svg)
-
-
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+---
+[![](https://visitcount.itsvg.in/api?id=jarek7410&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
