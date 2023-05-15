@@ -44,7 +44,10 @@
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" width="25" height="25"/> 
   </a>
  <a > <img src="https://upload.wikimedia.org/wikipedia/en/9/98/Blank_button.svg" width="10" height="40"/> 
-  </a> 
+  </a>  
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> 
+  </a>  
  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
   </a> 
