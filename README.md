@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">A passionate student and developer from Poland</h3>
+<h3 align="center">An ICT student and Software Engineer at Software Mansion</h3>
 
 # 💫 About Me:
-👨‍🎓 ICT student at AGH UST 🟩⬛️🟥 <br>🏍️ Mobile App Team Leader at E-Moto AGH<br>👨‍💻 Sometimes kind of a nerd, I love tech and  programming<br>📱Flutter Enthusiast<br>🏂️ In my free time, I snowboard and have fun.
+👨‍🎓 ICT student at AGH UST 🟩⬛️🟥 <br> 👨‍💻 Software Engineer at Software Mansion <br> 🏍️ Mobile App Team Leader at E-Moto AGH<br> 👾 Kinda a nerd <br>🏂️ In my free time, I snowboard and have fun.
 
 
 # 🌐 Socials:
