@@ -1,3 +1,4 @@
+patch-4
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,%20I'm%20Jarek!&animation=fadeIn&height=100&section=header"/>
 </p>
@@ -6,6 +7,7 @@
 
 # 💫 About Me:
 👨‍🎓 ICT student at AGH UST 🟩⬛️🟥 <br>👨‍💻 Sometimes kind of a nerd, I love tech and programming<br>🏂️ In my free time, I snowboard, surf, skate (anyboard:skateboard::surfer:) and have fun.
+
 
 
 <!-- # 🌐 Socials:
