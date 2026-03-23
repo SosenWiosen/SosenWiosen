@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
-<h3 align="center">An ICT student and Software Engineer at Software Mansion</h3>
+<h3 align="center">A Space Technologies student and Software Engineer at Software Mansion. Leader of On-Board Software team at SatLab AGH</h3>
 
 # 💫 About Me:
-👨‍🎓 ICT student at AGH UST 🟩⬛️🟥 <br> 👨‍💻 Software Engineer at Software Mansion <br>  👾 Kinda a nerd <br>🏂️ In my free time, I snowboard and have fun.
+👨‍🎓 Space Technologies student at AGH UST 🟩⬛️🟥 <br> 👨‍💻 Software Engineer at Software Mansion <br>  👾 Kinda a nerd <br>🏂️ In my free time, I snowboard and have fun.
 
 
 # 🌐 Socials:
